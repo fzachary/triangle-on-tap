@@ -42,7 +42,5 @@ If you would like to contribute to the project please reach out via GitHub!
 * **Frank Zachary** - [https://github.com/fzachary]
 * **Matthew Parks** - [https://github.com/MPA120]
 
-Thank you to the Coding Bootcamp at the University of North Carolina at Chapel Hill!
-
 ## License
 Copyright Matthew Parks, Jason Whited, Ryan Kooy, Frank Zachary, and Miran Jang
